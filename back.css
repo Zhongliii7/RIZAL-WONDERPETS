@@ -1,0 +1,47 @@
+.cover {
+    flex-wrap: nowrap;
+    width: 900px;
+    height: 700px;
+    margin-top: 50px;
+    display: flex;
+    padding: 16px;
+    
+}
+
+.box {
+    margin: auto;
+    width: 400px;
+    height: 450px;
+    box-shadow: -1px 0 10px #000000;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+   
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    display: flex;
+}
+
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+p.ex{
+    text-align: right;
+  }
+
+  p{
+    text-decoration: underline;
+    text-indent: 50px;
+    text-align: left;
+    line-height: 1.8;
+}
+ol.c {
+    list-style-type: upper-roman;
+  }
+
